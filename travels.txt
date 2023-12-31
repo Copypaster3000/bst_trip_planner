@@ -1,0 +1,309 @@
+name|state, country|best attractions|best time of year|how to get there|climate
+grand canyon|arizona, usa|hiking, scenic views|spring and fall|fly to phoenix or las vegas and drive|desert
+yellowstone national park|wyoming, usa|geysers, wildlife|summer|fly to jackson hole and drive|mountain
+paris|ile-de-france, france|eiffel tower, louvre museum|spring and fall|fly to charles de gaulle airport|temperate
+sydney|new south wales, australia|sydney opera house, bondi beach|september to november, february to april|fly to sydney airport|temperate
+tokyo|tokyo, japan|temples, shopping, cuisine|spring and fall|fly to haneda or narita airport|humid subtropical
+cape town|western cape, south africa|table mountain, beaches|november to february|fly to cape town international airport|mediterranean
+rio de janeiro|rio de janeiro, brazil|christ the redeemer, copacabana beach|december to march|fly to rio de janeiro/galeão–antonio carlos jobim international airport|tropical
+venice|veneto, italy|canals, st. mark's square|spring and fall|fly to venice marco polo airport|humid subtropical
+barcelona|catalonia, spain|sagrada familia, park güell|april to june, september to october|fly to barcelona–el prat airport|mediterranean
+bangkok|bangkok, thailand|temples, night markets|november to february|fly to suvarnabhumi airport|tropical
+bali|bali, indonesia|beaches, temples|april to october|fly to ngurah rai international airport|tropical
+dubai|dubai, united arab emirates|burj khalifa, shopping malls|november to march|fly to dubai international airport|desert
+vancouver|british columbia, canada|stanley park, granville island|may to september|fly to vancouver international airport|oceanic
+auckland|north island, new zealand|sky tower, beaches|october to april|fly to auckland airport|oceanic
+reykjavik|reykjavik, iceland|blue lagoon, northern lights|june to august|fly to keflavik international airport|subarctic
+machu picchu|cusco, peru|ancient inca ruins|may to september|fly to cusco and take train or hike|subtropical highland
+amsterdam|north holland, netherlands|canals, anne frank house|april to may, september to october|fly to amsterdam airport schiphol|oceanic
+rome|lazio, italy|colosseum, vatican city|april to june, september to october|fly to leonardo da vinci–fiumicino airport|mediterranean
+budapest|budapest, hungary|thermal baths, buda castle|april to june, september to october|fly to budapest ferenc liszt international airport|oceanic
+vienna|vienna, austria|schönbrunn palace, st. stephen's cathedral|april to june, september to october|fly to vienna international airport|oceanic
+san francisco|california, usa|golden gate bridge, alcatraz|september to november|fly to san francisco international airport|mediterranean
+santorini|cyclades, greece|caldera views, beaches|april to october|fly to santorini (thira) international airport|mediterranean
+edinburgh|scotland, united kingdom|edinburgh castle, royal mile|may to september|fly to edinburgh airport|oceanic
+banff|alberta, canada|banff national park, lake louise|june to september|fly to calgary and drive|subarctic
+queenstown|south island, new zealand|adventure sports, scenic views|december to february|fly to queenstown airport|oceanic
+havana|la habana, cuba|old havana, classic cars|november to march|fly to josé martí international airport|tropical
+lisbon|lisbon, portugal|belém tower, jerónimos monastery|march to may, september to october|fly to lisbon portela airport|mediterranean
+istanbul|istanbul, turkey|hagia sophia, grand bazaar|april to may, september to november|fly to istanbul airport|oceanic
+petra|ma'an, jordan|ancient city, treasury|march to may, september to november|fly to amman and drive|desert
+dubrovnik|dubrovnik-neretva, croatia|old town, city walls|april to june, september to october|fly to dubrovnik airport|mediterranean
+kyoto|kyoto, japan|kinkaku-ji, fushimi inari shrine|march to may, october to november|fly to kansai international airport|humid subtropical
+galapagos islands|galapagos, ecuador|unique wildlife, diving|december to may|fly to seymour airport|tropical
+jaipur|rajasthan, india|amber fort, hawa mahal|october to march|fly to jaipur international airport|semi-arid
+cartagena|bolívar, colombia|walled city, san felipe castle|december to april|fly to rafael núñez international airport|tropical
+athens|attica, greece|acropolis, parthenon|april to june, september to october|fly to athens international airport|mediterranean
+zanzibar|zanzibar, tanzania|stone town, beaches|june to october, december to february|fly to abeid amani karume international airport|tropical
+copenhagen|capital region, denmark|tivoli gardens, little mermaid|may to august|fly to copenhagen airport|oceanic
+berlin|berlin, germany|brandenburg gate, reichstag|may to september|fly to berlin tegel airport|oceanic
+dublin|dublin, ireland|trinity college, guinness storehouse|april to june, september to october|fly to dublin airport|oceanic
+oslo|oslo, norway|vigeland park, viking ship museum|may to september|fly to oslo airport|oceanic
+buenos aires|buenos aires, argentina|la boca, recoleta|march to may, september to november|fly to ministro pistarini international airport|humid subtropical
+stockholm|stockholm, sweden|gamla stan, vasa museum|may to september|fly to stockholm arlanda airport|oceanic
+warsaw|masovian, poland|royal castle, wilanów palace|may to september|fly to warsaw chopin airport|oceanic
+salzburg|salzburg, austria|hohensalzburg fortress, mirabell palace|april to june, september to october|fly to salzburg airport|oceanic
+tallinn|harju, estonia|old town, toompea castle|may to september|fly to tallinn airport|oceanic
+montréal|québec, canada|old montréal, mount royal|may to october|fly to montréal–pierre elliott trudeau international airport|humid continental
+prague|prague, czech republic|charles bridge, prague castle|april to june, september to october|fly to václav havel airport prague|oceanic
+helsinki|uusimaa, finland|suomenlinna, market square|may to september|fly to helsinki airport|oceanic
+belgrade|belgrade, serbia|kalemegdan fortress, st. sava temple|april to june, september to october|fly to belgrade nikola tesla airport|humid subtropical
+mexico city|mexico city, mexico|zócalo, teotihuacan|october to may|fly to mexico city international airport|subtropical highland
+santiago|santiago, chile|cerro san cristóbal, la moneda palace|september to april|fly to comodoro arturo merino benítez international airport|mediterranean
+mythlandia|fantasyland, earth|dragon tours, unicorn meadows|year-round|fly to enchanted airport|mild and magical
+emerald beach|gems, oceania|colorful sands, seashell collecting|may to october|fly to gemstone airport|tropical
+astroland|galaxy, mars|space observatory, zero gravity park|year-round|space shuttle to mars station|thin atmosphere, cold
+lake serenity|peaceful province, utopia|nature retreats, yoga retreats|year-round|fly to tranquility airport|mild, calm
+crystal caverns|underground, mysterious|cave explorations, stalactite viewing|year-round|fly to subterranean airport|subterranean
+sunset valley|golden fields, dreamland|sunset watching, lavender fields|year-round|fly to golden skies airport|mediterranean
+polaris isle|arctic, north pole|aurora borealis, polar wildlife|november to february|fly to north star airport|polar
+whispering woods|forest realm, natureland|hiking, bird watching|april to october|fly to green leaf airport|temperate
+steamtown|steampunk, gearland|victorian architecture, airship tours|year-round|fly to cogwheel airport|humid subtropical
+arcadia bay|coastal region, seascapes|beaches, lighthouses|may to september|fly to ocean breeze airport|oceanic
+frostbite falls|snowland, winterworld|skiing, snowboarding|november to march|fly to ice crystal airport|subarctic
+dino island|jurassic, prehistoria|dinosaur parks, fossil hunting|year-round|fly to pterodactyl airport|tropical
+plumeria paradise|floral islands, blossomland|botanical gardens, fragrance tours|year-round|fly to petal airport|subtropical
+aquarium city|marinelife, oceania|underwater adventures, marine conservation|year-round|fly to coral reef airport|tropical
+garden of zen|tranquil, harmonious|meditation retreats, tea ceremonies|year-round|fly to inner peace airport|temperate
+solaris sands|desert oasis, sunland|sand dunes, camel rides|october to april|fly to mirage airport|desert
+skyward peaks|mountain heights, cloudland|mountain climbing, cloud gazing|june to september|fly to summit airport|alpine
+bamboo grove|panda province, wildlife|panda sanctuaries, bamboo forests|april to october|fly to panda airport|subtropical
+fairy falls|waterfall wonders, enchanted|rainbow waterfalls, mythical creatures|year-round|fly to misty skies airport|tropical rainforest
+timeless town|historic, antiquity|ancient ruins, time travel tours|year-round|fly to sands of time airport|temperate
+moonlit shores|nocturnal, nightscapes|stargazing, bioluminescent beaches|year-round|fly to lunar tides airport|tropical
+celestial springs|starry province, cosmos|hot springs, starlit hikes|year-round|fly to celestial airport|temperate
+treetop retreat|canopy, forestland|treehouse resorts, ziplining|april to october|fly to canopy airport|tropical rainforest
+sunrise cove|dawn shores, morningland|sunrise watching, beach strolls|year-round|fly to rising sun airport|oceanic
+mossy meadow|green glades, grasslands|picnics, wildflower trails|april to october|fly to verdant valley airport|mild
+quicksilver rapids|mercury river, speedland|whitewater rafting, jet boating|may to september|fly to mercury airport|subtropical
+rainbow canyon|colorful cliffs, prismland|scenic drives, hiking|march to november|fly to spectrum airport|desert
+petrified forest|fossilized, ancient trees|nature walks, museum tours|year-round|fly to stone tree airport|semi-arid
+harmony heights|melodic mountains, songland|music festivals, sound healing|year-round|fly to symphony airport|temperate
+shadow valley|twilight, moonlit realm|nocturnal wildlife, night hikes|year-round|fly to midnight airport|subtropical
+labyrinth gardens|maze, puzzleland|garden mazes, scavenger hunts|year-round|fly to maze manor airport|mediterranean
+tidepool beach|rocky coast, oceanworld|tidepool exploration, marine life|may to october|fly to seashell harbor airport|oceanic
+amber woods|golden forest, foliage|autumn leaves, scenic trails|september to november|fly to autumn breeze airport|temperate
+umbra island|eclipse, shadowland|solar eclipse viewing, night sky events|year-round|fly to eclipse airport|tropical
+giant's playground|massive, titanland|rock formations, scenic hikes|year-round|fly to colossus airport|desert
+neon city|electropolis, lightland|nightlife, light art installations|year-round|fly to luminous airport|urban
+sakura grove|cherry blossom, bloomland|cherry blossom viewing, picnics|march to april|fly to sakura airport|temperate
+aurora island|polar, southern lights|aurora australis, glacial tours|march to september|fly to southern lights airport|subantarctic
+oasis springs|desert bloom, oasisland|natural springs, wildlife viewing|year-round|fly to palm tree airport|desert
+sky castle|cloud kingdom, aerialand|hot air ballooning, castle tours|year-round|fly to nimbus airport|mild
+lunar crater|moon base, outer space|moon walks, space science|year-round|space shuttle to lunar station|no atmosphere, extreme cold
+coral cove|barrier reef, aquatica|snorkeling, scuba diving|year-round|fly to reef explorer airport|tropical
+tulip fields|flowerland, petal plains|tulip festivals, flower photography|april to may|fly to tulip breeze airport|mild
+dreamer's valley|sleepy slopes, fantasy|dream interpretation, lucid dream workshops|year-round|fly to dreamland airport|temperate
+phoenix plains|firebird, mythical|phoenix sightings, flame trees|year-round|fly to eternal flame airport|desert
+vortex village|magnetic, energyland|energy vortex tours, meditation|year-round|fly to magnetic field airport|mild
+eagle's nest|soaring heights, birdland|bird watching, paragliding|april to october|fly to soaring sky airport|temperate
+ivory beach|white sands, coastland|pristine beaches, sand sculptures|year-round|fly to pearl harbor airport|tropical
+cloud nine|sky high, euphoria|panoramic views, cloud tours|year-round|fly to cloudscape airport|mild
+glowworm grotto|bioluminescent, nightland|glowworm caves, night kayaking|year-round|fly to glowlight airport|subtropical
+pumpkin patch|harvest hills, autumnland|pumpkin picking, hayrides|september to october|fly to harvest moon airport|temperate
+majestic mountains|regal range, summitland|mountain climbing, scenic views|june to september|fly to crown peak airport|alpine
+silversand shores|metallic beach, sparkleland|metallic sand beaches, sunbathing|year-round|fly to shimmering sands airport|tropical
+inkwell island|calligraphy coast, penland|calligraphy workshops, writing retreats|year-round|fly to quill harbor airport|temperate
+windrift valley|breezy bluffs, windland|kite flying, windmill tours|year-round|fly to gust airport|mild
+cobblestone village|old-world, cobbleland|historic buildings, time travel tours|year-round|fly to stone path airport|temperate
+stardust sea|celestial ocean, galaxy|starry beaches, meteor showers|year-round|fly to comet airport|tropical
+honeycomb hills|bee kingdom, pollinationland|beekeeping, honey tasting|year-round|fly to honey airport|mediterranean
+lotus lake|water lily, flowerland|lotus gardens, boat tours|april to october|fly to serene waters airport|subtropical
+solar flare bay|sunspot, solarland|sunset watching, solar art|year-round|fly to sunburst airport|tropical
+gilded gardens|golden greenery, lushland|gold leaf botanical gardens, art tours|year-round|fly to gilded leaf airport|mild
+origami city|paperland, folded wonders|origami exhibits, paper art workshops|year-round|fly to paper crane airport|urban
+whale watch cove|marine mammal, oceanland|whale watching, dolphin encounters|may to october|fly to whale song airport|oceanic
+silent springs|quiet waters, sereneland|relaxation retreats, sound therapy|year-round|fly to whispering water airport|temperate
+celestial observatory|astronomy, stargazers|telescopes, night sky tours|year-round|fly to cosmic airport|mountain
+lantern grove|illuminated forest, lightland|lantern festivals, tree lighting|year-round|fly to radiant woods airport|temperate
+sapphire sea|gemstone coast, jewel ocean|blue beaches, snorkeling|year-round|fly to sapphire shores airport|tropical
+clockwork city|mechanical, gearland|clockwork exhibits, steampunk events|year-round|fly to timepiece airport|urban
+butterfly meadows|winged wonders, insectland|butterfly gardens, caterpillar nurseries|april to september|fly to flutterby airport|temperate
+cherry pie cove|dessertland, sweet shores|cherry orchards, pie tastings|june to august|fly to cherry delight airport|oceanic
+glass beach|sea glass, crystal coast|beachcombing, glass sculpture exhibits|year-round|fly to glass ocean airport|mediterranean
+gravity grove|weightless woods, floatland|zero gravity experiences, forest walks|year-round|fly to anti-gravity airport|mild
+firefly forest|bioluminescent, glowland|firefly tours, nighttime forest walks|year-round|fly to firefly airport|temperate
+atlantis isle|lost city, oceanworld|underwater ruins, scuba diving|year-round|fly to atlantis airport|tropical
+golden gate gardens|suspended, skyland|hanging gardens, skywalks|year-round|fly to golden bridge airport|subtropical
+penguin paradise|iceberg island, arctic|penguin colonies, wildlife tours|year-round|fly to snowflake airport|polar
+candy cane lane|sweet street, candyland|candy factory tours, gingerbread houses|year-round|fly to peppermint airport|temperate
+floating islands|skybound, aerialand|hot air balloon rides, island hopping|year-round|fly to skyloft airport|mild
+thunderstorm plains|lightning valley, stormland|storm watching, lightning photography|year-round|fly to thunderbolt airport|semi-arid
+ancient archive|historia, timelessland|ancient libraries, history tours|year-round|fly to timeless tomes airport|temperate
+astral atoll|starlit islands, celestialland|stargazing, nighttime beaches|year-round|fly to constellation airport|tropical
+willow whispers|weeping woods, treehaven|willow tree forests, canoe rides|april to october|fly to weeping willow airport|mild
+terra firma|geology, earthland|rock formations, geological tours|year-round|fly to solid ground airport|mountain
+sunflower fields|sunlit plains, flowerland|sunflower photography, flower festivals|june to august|fly to sunshine airport|mediterranean
+frostwing falls|frozen waterfalls, iceworld|ice climbing, frozen waterfall hikes|december to february|fly to icicle airport|subarctic
+nebula bay|galactic coast, spaceworld|galaxy photography, stargazing|year-round|fly to cosmic cove airport|oceanic
+lantern grove|illuminated forest, lightland|lantern festivals, tree lighting|year-round|fly to radiant woods airport|temperate
+sapphire sea|gemstone coast, jewel ocean|blue beaches, snorkeling|year-round|fly to sapphire shores airport|tropical
+clockwork city|mechanical, gearland|clockwork exhibits, steampunk events|year-round|fly to timepiece airport|urban
+butterfly meadows|winged wonders, insectland|butterfly gardens, caterpillar nurseries|april to september|fly to flutterby airport|temperate
+cherry pie cove|dessertland, sweet shores|cherry orchards, pie tastings|june to august|fly to cherry delight airport|oceanic
+glass beach|sea glass, crystal coast|beachcombing, glass sculpture exhibits|year-round|fly to glass ocean airport|mediterranean
+gravity grove|weightless woods, floatland|zero gravity experiences, forest walks|year-round|fly to anti-gravity airport|mild
+firefly forest|bioluminescent, glowland|firefly tours, nighttime forest walks|year-round|fly to firefly airport|temperate
+atlantis isle|lost city, oceanworld|underwater ruins, scuba diving|year-round|fly to atlantis airport|tropical
+golden gate gardens|suspended, skyland|hanging gardens, skywalks|year-round|fly to golden bridge airport|subtropical
+penguin paradise|iceberg island, arctic|penguin colonies, wildlife tours|year-round|fly to snowflake airport|polar
+candy cane lane|sweet street, candyland|candy factory tours, gingerbread houses|year-round|fly to peppermint airport|temperate
+floating islands|skybound, aerialand|hot air balloon rides, island hopping|year-round|fly to skyloft airport|mild
+thunderstorm plains|lightning valley, stormland|storm watching, lightning photography|year-round|fly to thunderbolt airport|semi-arid
+painted desert|colorful sands, arid art|sand dunes, desert paintings|march to november|fly to chromatic sands airport|desert
+ancient archive|historia, timelessland|ancient libraries, history tours|year-round|fly to timeless tomes airport|temperate
+astral atoll|starlit islands, celestialland|stargazing, nighttime beaches|year-round|fly to constellation airport|tropical
+willow whispers|weeping woods, treehaven|willow tree forests, canoe rides|april to october|fly to weeping willow airport|mild
+terra firma|geology, earthland|rock formations, geological tours|year-round|fly to solid ground airport|mountain
+sunflower fields|sunlit plains, flowerland|sunflower photography, flower festivals|june to august|fly to sunshine airport|mediterranean
+frostwing falls|frozen waterfalls, iceworld|ice climbing, frozen waterfall hikes|december to february|fly to icicle airport|subarctic
+nebula bay|galactic coast, spaceworld|galaxy photography, stargazing|year-round|fly to cosmic cove airport|oceanic
+spiral cove|whirlpool beach, spinland|beachcombing, spiral artwork|year-round|fly to vortex shores airport|tropical
+eternal falls|timeless waters, cascade kingdom|waterfall photography, hiking|year-round|fly to everflow airport|mild
+wisteria walk|lavender lanes, floral forest|wisteria gardens, spring festivals|april to may|fly to wisteria breeze airport|temperate
+frostfire caverns|iceflame, polar blaze|ice caves, fire sculpture gardens|year-round|fly to frostfire airport|subpolar
+bonsai beach|tiny trees, miniatureland|bonsai gardens, beach picnics|year-round|fly to little paradise airport|tropical
+zenith peaks|summit skies, mountainland|mountain climbing, paragliding|june to september|fly to apex heights airport|alpine
+dolphin bay|playful sea, aquaticland|dolphin encounters, marine life tours|year-round|fly to dolphin dance airport|tropical
+stepping stone forest|rocky woods, stonehaven|stone pathways, forest trails|april to october|fly to pebble path airport|temperate
+pegasus point|mythical meadows, cloud kingdom|wild horse tours, cloud watching|year-round|fly to winged horse airport|mild
+eucalyptus estates|koala country, greeneryland|koala sanctuaries, eucalyptus forests|year-round|fly to koala cove airport|temperate
+fountain of youth|immortal island, everland|youth elixir spa, ageless activities|year-round|fly to timeless oasis airport|tropical
+jellyfish jungle|bioluminescent bay, glowland|nighttime snorkeling, jellyfish tours|year-round|fly to glowing sea airport|subtropical
+peacock palace|royal plumage, featherland|peacock gardens, royal tours|year-round|fly to regal feathers airport|temperate
+mirage oasis|illusion desert, visionland|optical illusion tours, sand dune safaris|year-round|fly to shifting sands airport|desert
+pineapple plantation|tropical fruit, island haven|pineapple farms, fruit tastings|year-round|fly to pineapple paradise airport|tropical
+rune ruins|mystic stones, enchantedland|ancient rune tours, magic workshops|year-round|fly to enigma airport|temperate
+crystal caverns|geode grotto, gemstone|cave tours, crystal mining|year-round|fly to crystal chamber airport|mild
+evergreen escape|pine forest, woodland|nature walks, wildlife encounters|year-round|fly to emerald forest airport|temperate
+sculpture sands|artistic dunes, sandland|sand sculpture festivals, beachcombing|year-round|fly to sandcastle airport|desert
+cinnamon cove|spice island, flavorland|cinnamon plantations, cooking classes|year-round|fly to cinnamon swirl airport|tropical
+kakariko village|hyrule|meet impa|all year|walk|hylian
+death mountain|hyrule|goron dancing|fall|walk|goron
+lost woods|hyrule|play the ocarina|spring|walk|kokiri
+gerudo valley|hyrule|horseback archery|summer|horseback|gerudo
+lake hylia|hyrule|fishing|spring|walk|hylian
+lon lon ranch|hyrule|horse racing|all year|horseback|hylian
+hateno village|hyrule|visit the dye shop|all year|walk|hylian
+rito village|hyrule|flight range|fall|air|rito
+korok forest|hyrule|korok seed hunting|spring|walk|korok
+tarrey town|hyrule|wedding|all year|teleport|hylian
+snowpeak ruins|hyrule|snowboarding|winter|walk|yeti
+skyloft|sky|bird riding|all year|air|hylian
+dragon roost island|great sea|mail sorting|summer|air|rito
+windfall island|great sea|auction house|all year|walk|hylian
+outset island|great sea|pig chasing|spring|walk|hylian
+forest haven|great sea|visit the deku tree|all year|walk|korok
+greatfish isle|great sea|fishing|summer|swim|hylian
+bomb island|great sea|bomb puzzle|fall|walk|hylian
+beedle's shop ship|great sea|shopping|all year|swim|hylian
+clock town|termina|carnival of time|all year|walk|hylian
+woodfall|termina|learn a new song|spring|walk|deku
+snowhead|termina|goron races|winter|horseback|goron
+great bay|termina|swim with the zoras|summer|swim|zora
+ikana canyon|termina|visit ancient castle|fall|walk|hylian
+romani ranch|termina|alien defense|summer|horseback|hylian
+southern swamp|termina|pictograph contest|spring|walk|hylian
+mountain village|termina|snowball fights|winter|walk|goron
+zora hall|termina|zora band practice|all year|swim|zora
+milk road|termina|gorman track races|summer|horseback|hylian
+sky city|twilight realm|ocococo rescue|all year|air|ocococo
+eldin volcano|hyrule|bomb bowling|summer|walk|hylian
+lanayru desert|hyrule|minecart ride|fall|walk|hylian
+seaside laboratory|hyrule|marine research|all year|swim|hylian
+skull woods|hyrule|skull mask trading|spring|walk|stalchild
+thieves' town|hyrule|pickpocketing|all year|walk|hylian
+death mountain crater|hyrule|fire tunic shopping|summer|teleport|goron
+zora's river|hyrule|frog choir|spring|swim|zora
+fairy fountain|hyrule|magic upgrades|all year|teleport|fairy
+hyrule castle town|hyrule|market shopping|all year|walk|hylian
+ancient cistern|hyrule|explore the temple|spring|swim|hylian
+arbiter's grounds|hyrule|mirror shard quest|fall|walk|hylian
+city in the sky|hyrule|ocarina duet|all year|air|ocococo
+faron woods|hyrule|forest temple|spring|walk|hylian
+temple of time|hyrule|solve puzzles|all year|walk|hylian
+lurelin village|hyrule|treasure chest game|summer|walk|hylian
+spectacle rock|hyrule|rock climbing|fall|walk|hylian
+koloktos|hyrule|boss battle|all year|teleport|hylian
+tower of the gods|great sea|goddess statues|spring|swim|hylian
+stone tower temple|termina|flip the temple|fall|walk|hylian
+pyramid|hyrule|desert treasure hunt|summer|walk|hylian
+sacred grove|hyrule|master sword quest|spring|walk|hylian
+ikana graveyard|termina|captain keeta battle|fall|walk|hylian
+symmetry city|labrynna|solve the mystery|spring|walk|hylian
+talus cave|holodrum|ice puzzle|winter|walk|hylian
+subrosia|holodrum|visit the volcano|all year|teleport|subrosian
+crescent island|labrynna|tokay minigame|summer|swim|tokay
+tarm ruins|labrynna|explore the ruins|spring|walk|hylian
+goron mountain|holodrum|biggoron sword quest|summer|walk|goron
+lynnna city|labrynna|visit the black tower|all year|walk|hylian
+horon village|holodrum|plant gasha seeds|spring|walk|hylian
+zora village|labrynna|zora scale quest|summer|swim|zora
+nayru's house|labrynna|meet nayru|all year|teleport|hylian
+din's house|holodrum|meet din|all year|teleport|hylian
+farore's house|holodrum|meet farore|all year|teleport|hylian
+spool swamp|holodrum|floodgate puzzle|spring|swim|hylian
+sunken city|holodrum|uncover secrets|all year|teleport|hylian
+crown dungeon|labrynna|mermaid suit quest|summer|swim|zora
+islet of steel|great sea|cannon challenge|fall|swim|hylian
+diamond steppe island|great sea|ghost ship puzzle|all year|teleport|hylian
+headstone island|great sea|earth temple entrance|spring|walk|hylian
+forbidden woods|great sea|forest haven dungeon|summer|air|korok
+pawprint isle|great sea|secret cave|all year|swim|hylian
+blue lagoon|reykjavik, iceland|geothermal spa|year-round|bus or car|cold oceanic
+tikal|el petén, guatemala|mayan ruins|december to april|plane or bus|tropical rainforest
+angkor wat|siem reap, cambodia|hindu temple|november to february|plane or car|tropical savanna
+great barrier reef|queensland, australia|coral reef|june to october|boat or plane|tropical monsoon
+yellow mountain|anhui, china|mountain range|april to november|cable car or bus|humid subtropical
+banff national park|alberta, canada|mountain range|june to august|car or bus|subarctic
+red sea reef|egypt|coral reef|june to august|boat or plane|desert
+kruger national park|limpopo, south africa|wildlife reserve|may to september|car or plane|subtropical
+santorini|greece|volcanic island|april to november|boat or plane|mediterranean
+cappadocia|nevşehir, turkey|rock formations|april to june and september to november|plane or bus|continental
+bora bora|french polynesia|island resort|may to october|plane|tropical
+sossusvlei|namibia|red dunes|may to september|car or plane|desert
+yosemite national park|california, usa|wildlife reserve|may to september|car or bus|continental
+uluru|northern territory, australia|sandstone formation|may to september|car or plane|desert
+the great ocean road|victoria, australia|coastal drive|november to february|car|temperate
+inca trail|cusco, peru|hiking trail|may to september|foot or horse|tropical mountain
+isle of skye|scotland|island|may to september|car or bus|temperate oceanic
+guilin and yangshuo|guangxi, china|karst hills|april to october|boat or plane|humid subtropical
+maasai mara national reserve|narok, kenya|wildlife reserve|july to october|car or plane|tropical
+banff springs hotel|alberta, canada|hotel|june to august|car or bus|subarctic
+halong bay|quảng ninh, vietnam|limestone islands|march to may and september to november|boat or plane|tropical monsoon
+milford sound|south island, new zealand|fiord|november to march|car or bus|temperate oceanic
+plitvice lakes national park|lika-senj, croatia|lakes|june to september|car or bus|mediterranean
+easter island|rapa nui, chile|archaeological site|november to february|plane|subtropical
+neuschwanstein castle|bavaria, germany|castle|april to october|car or bus|humid continental
+san diego|california|sea cave kayaking|sumer|plane|reservation:yes
+anaheim|california|disneyland|all year|plane|reservation:yes
+universal city|california|all year|universal studios|plane|reservation:yes
+seatle|whashington|snoqualmie falls|sumer|drive|reservation:yes
+willow beach|arizona|half day emerald cove kayak tour|sumer|plane|reservation:yes
+lechee|arizona|lower antelope canyon|sumer|plane|reservation:yes
+grand canyon|arizona|45 minutes helicopter flight over the grand canyon|sumer|plane|reservation:yes
+phoenix|arizona|morning hot air ballon flight over phoenix|sumer|plane|reservation:yes
+bryce|utah|hiking exprerience in bryce canyon national park|all year|drive or plane|reservation:yes
+moab|utah|fisher towers half day rafting day trip|sumer|drive or plane|reservation:yes
+austin|texas|bat congregation|spring|plane|reservation:yes
+boston|massachusetts|faneuil hall|summer|boat|reservation:yes
+new orleans|louisiana|st. louis cathedral|early spring|bike|reservation:yes
+san francisco|california|golden gate bridge|summer|plane|reservation:no
+arches national park|utah|the crazy dunes and spires|all year|car|reservation:no
+washington, dc|washington, dc|the national archives museum|july|plane|reservation:yes
+new york|new york|central park|spring|car|reservation:no
+miami|florida|amazing beaches|all year|plane|reservation:no
+portland|oregon|the gorgeous nature around the city|never|walk|reservation:no
+stanley|idaho|alice lake|nevcar|reservation:no
+yellowstone national park|wyoming|ol faithful, lamarvalley|all year|car|reservation:yes
+mt hood|oregon|zig zag trail|summer|car|reservation:no
+atlanta|georgia|cocola factory|all year|plane|reservation:no
+orlando|florida|disneyworld|all year|plane|reservation:yes
+albuquerque|new mexico|hot air balloon ride|summer|plane|reservation:yes
+seaside|oregon|seaside beach|summer|drive|reservation:no
+chicago|illinois|the art institute of chicago|all year|plane|reservation:no
+los angeles|california|rodeo drive|summer|plane|reservation:no
+san jose|california|jdm car meet|summer|drive|reservation:no
+new york city|new york|get food from local restaurants|all year|plane|reservation:yes
+las vegas|nevada|las vegas strip|summer|plane|reservation:no
+
