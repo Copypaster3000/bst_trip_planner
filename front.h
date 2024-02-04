@@ -1,9 +1,4 @@
 //front.h
-//Drake Wheeler
-//Karla Fant
-//CS163
-//Program 4
-//5/29/2023
 //This is the header file for the front class
 #include "tree.h"
 
