@@ -1,10 +1,6 @@
 //*************************************************************************************************
 //4prog.cpp                                                                                       * 
-//Drake Wheeler                                                                                   * 
-//Karla Fant                                                                                      *
-//CS163                                                                                           * 
-//Program 4                                                                                       * 
-//5/21/2023                                                                                       * 
+//Drake Wheeler                                                                                   *                                                                                      * 
 //This file holds the main function which organizes and calls all the other functions for the     * 
 //program. This program utilizes a binary search tree to allow the user to store and edit trip    * 
 //ideas.                                                                                          *
