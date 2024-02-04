@@ -1,5 +1,4 @@
 //front.cpp
-//Drake Wheeler
 //This file holds the definitions for the front class. The front class is used to test the tree class functions.
 
 #include <iostream>
