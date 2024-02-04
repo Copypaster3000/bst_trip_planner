@@ -1,11 +1,7 @@
 //trip_entry.h
-//Drake Wheeler
-//Karla Fant
-//CS163
-//Program 4
-//5/21/2023
 //This is the header file for the class trip_entry which holds and edits and stuff details
 //for the trip it represents
+
 #include <cstring>
 #include <cctype>
 #include <iostream>
