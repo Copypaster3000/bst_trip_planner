@@ -1,12 +1,8 @@
 //trip_entry.cpp
-//Drake Wheeler
-//Karla Fant
-//CS163
-//Program 4
-//5/21/2023
 //This file holds the class definitions for trip entry. These functions are used to hold and do things with the details
-//of an individual trip. The details of each trip are stored in their own instance of this class which is initalized in
+//of an individual trip. The details of each trip are stored in their own instance of this class which is initialized in
 //each node 
+
 #include <cstring>
 #include "trip_entry.h"
 using namespace std;
