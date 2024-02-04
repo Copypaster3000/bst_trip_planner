@@ -1,10 +1,8 @@
-//*************************************************************************************************
-//4prog.cpp                                                                                       * 
-//Drake Wheeler                                                                                   *                                                                                      * 
-//This file holds the main function which organizes and calls all the other functions for the     * 
-//program. This program utilizes a binary search tree to allow the user to store and edit trip    * 
-//ideas.                                                                                          *
-//*************************************************************************************************
+//4prog.cpp
+//This file holds the main function which organizes and calls all the other functions for the
+//program. This program utilizes a binary search tree to allow the user to store and edit trip
+//ideas.
+
 
 #include "front.h"
 #include "iostream"
