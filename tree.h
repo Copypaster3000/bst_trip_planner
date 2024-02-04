@@ -1,9 +1,6 @@
 //tree.h
-//Drake Wheeler
-//Karla Fant
-//CS163
-//Program  3
-//5/21/2023
+//Header file for the tree class that declares the functions that edit the BST. The node used
+//in the BST is also declared here.
 
 #include "trip_entry.h"
 
