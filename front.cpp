@@ -1,11 +1,6 @@
 //front.cpp
 //Drake Wheeler
-//Karla Fant
-//CS163
-//Program 4
-//5/21/2023
-//This file holds the definitions for the front class. The front class is used to test the 
-//tree class functions.
+//This file holds the definitions for the front class. The front class is used to test the tree class functions.
 
 #include <iostream>
 #include "front.h"
