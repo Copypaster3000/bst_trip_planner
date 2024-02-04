@@ -1,9 +1,4 @@
 //tree.cpp
-//Drake Wheeler
-//Karla Fant
-//CS163
-//Program 4
-//5/21/2023
 //This file holds the tree class definitions
 
 #include <cstring>
